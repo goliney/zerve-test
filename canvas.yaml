@@ -1,110 +1,377 @@
-id: 898902ef-909e-4aa9-b3cb-e0663cc5321e
-name: Simple Canvas
-project_id: 0ee4a0a8-f2a0-451c-b96d-6f08b86fe286
-global_imports: []
+id: 391f3b3b-61d3-4c40-9ea4-a202b318b545
+name: test
+project_id: 37a5c023-8107-4384-a848-0f319ff9a351
+global_imports:
+- import plotly.express as px
 is_public: false
 workspace_id: null
 layers:
 - blocks:
   - auto_size: false
-    canvas_id: 898902ef-909e-4aa9-b3cb-e0663cc5321e
+    canvas_id: 391f3b3b-61d3-4c40-9ea4-a202b318b545
     cpu: null
     description: ''
-    height: 697
-    id: ffdc8c96-e127-457e-9a44-e46cfd2b3c8a
+    height: 500
+    id: 8cedc978-3c49-47c5-8f47-71c3d57e03ba
     is_fargate: false
-    layer_id: c182921a-3366-426b-9f21-abac86cddd60
+    layer_id: 22471c75-aa87-4419-88d0-0954d1c249fa
     memory: null
-    name: test
+    name: ''
+    parent_id: null
+    properties: {}
+    status: 3
+    type: 1
+    variables: null
+    width: 800
+    x: 1783
+    y: 451
+  - auto_size: false
+    canvas_id: 391f3b3b-61d3-4c40-9ea4-a202b318b545
+    cpu: null
+    description: ''
+    height: 500
+    id: 68626267-2766-46e6-aeac-af9c34684037
+    is_fargate: false
+    layer_id: 22471c75-aa87-4419-88d0-0954d1c249fa
+    memory: null
+    name: ''
+    parent_id: null
+    properties: {}
+    status: 3
+    type: 1
+    variables: null
+    width: 800
+    x: 1777
+    y: 1071
+  - auto_size: false
+    canvas_id: 391f3b3b-61d3-4c40-9ea4-a202b318b545
+    cpu: null
+    description: ''
+    height: 500
+    id: 15003fe0-e40a-4e63-9b53-e42960f806b6
+    is_fargate: false
+    layer_id: 22471c75-aa87-4419-88d0-0954d1c249fa
+    memory: null
+    name: ''
     parent_id: null
     properties: {}
     status: 4
     type: 1
     variables: null
-    width: 729
-    x: -944
-    y: -1924
+    width: 800
+    x: 2703
+    y: -1048
   - auto_size: false
-    canvas_id: 898902ef-909e-4aa9-b3cb-e0663cc5321e
+    canvas_id: 391f3b3b-61d3-4c40-9ea4-a202b318b545
     cpu: null
     description: ''
-    height: 654
-    id: 1aa1b25d-a402-498e-b968-a140b040fa88
+    height: 500
+    id: 3cb00a30-5b2a-4cb5-9263-e94e98e6e71f
     is_fargate: false
-    layer_id: c182921a-3366-426b-9f21-abac86cddd60
+    layer_id: 22471c75-aa87-4419-88d0-0954d1c249fa
     memory: null
-    name: assign_large_number
+    name: ''
     parent_id: null
     properties: {}
-    status: 1
+    status: 3
     type: 1
     variables: null
-    width: 608
-    x: 692
-    y: -2188
+    width: 800
+    x: 1777
+    y: 2451
   - auto_size: false
-    canvas_id: 898902ef-909e-4aa9-b3cb-e0663cc5321e
+    canvas_id: 391f3b3b-61d3-4c40-9ea4-a202b318b545
     cpu: null
     description: ''
-    height: 661
-    id: c7780fa2-43ba-43cb-83db-0546c01a66a3
+    height: 500
+    id: 2a1bbe45-472e-42cb-8be2-f3c40f346c4a
     is_fargate: false
-    layer_id: c182921a-3366-426b-9f21-abac86cddd60
+    layer_id: 22471c75-aa87-4419-88d0-0954d1c249fa
     memory: null
-    name: adfadf
+    name: ''
     parent_id: null
     properties: {}
-    status: 1
+    status: 3
     type: 1
     variables: null
-    width: 1073
-    x: 52
-    y: -1306
-  canvas_id: 898902ef-909e-4aa9-b3cb-e0663cc5321e
+    width: 800
+    x: 1599
+    y: 1801
+  - auto_size: false
+    canvas_id: 391f3b3b-61d3-4c40-9ea4-a202b318b545
+    cpu: null
+    description: ''
+    height: 500
+    id: 6ffef755-60c4-456e-9970-f627e80b2242
+    is_fargate: false
+    layer_id: 22471c75-aa87-4419-88d0-0954d1c249fa
+    memory: null
+    name: ''
+    parent_id: null
+    properties: {}
+    status: 3
+    type: 1
+    variables: null
+    width: 800
+    x: -706
+    y: 101
+  - auto_size: false
+    canvas_id: 391f3b3b-61d3-4c40-9ea4-a202b318b545
+    cpu: null
+    description: ''
+    height: 500
+    id: 69f7b56a-e624-4f3d-b490-154f52fe6f54
+    is_fargate: false
+    layer_id: 22471c75-aa87-4419-88d0-0954d1c249fa
+    memory: null
+    name: ''
+    parent_id: null
+    properties: {}
+    status: 4
+    type: 5
+    variables: null
+    width: 800
+    x: 3753
+    y: 2084
+  - auto_size: false
+    canvas_id: 391f3b3b-61d3-4c40-9ea4-a202b318b545
+    cpu: null
+    description: ''
+    height: 500
+    id: 29218b40-2647-41c5-b0f4-7ddd5165c2de
+    is_fargate: false
+    layer_id: 22471c75-aa87-4419-88d0-0954d1c249fa
+    memory: null
+    name: ''
+    parent_id: null
+    properties: {}
+    status: 3
+    type: 1
+    variables: null
+    width: 800
+    x: -693
+    y: 1113
+  - auto_size: false
+    canvas_id: 391f3b3b-61d3-4c40-9ea4-a202b318b545
+    cpu: null
+    description: ''
+    height: 498
+    id: 154f66aa-4bfa-4169-9a50-ca85a4975d2f
+    is_fargate: false
+    layer_id: 22471c75-aa87-4419-88d0-0954d1c249fa
+    memory: null
+    name: ''
+    parent_id: null
+    properties: {}
+    status: 3
+    type: 1
+    variables: null
+    width: 865
+    x: 2703
+    y: 132
+  - auto_size: false
+    canvas_id: 391f3b3b-61d3-4c40-9ea4-a202b318b545
+    cpu: null
+    description: ''
+    height: 500
+    id: 7b8865a4-39b8-40b3-9b9e-55d60f0c706c
+    is_fargate: false
+    layer_id: 22471c75-aa87-4419-88d0-0954d1c249fa
+    memory: null
+    name: ''
+    parent_id: null
+    properties: {}
+    status: 3
+    type: 1
+    variables: null
+    width: 800
+    x: 411
+    y: -440
+  - auto_size: false
+    canvas_id: 391f3b3b-61d3-4c40-9ea4-a202b318b545
+    cpu: null
+    description: ''
+    height: 500
+    id: 3a772162-7d3e-4983-913d-2aa75aa217c3
+    is_fargate: false
+    layer_id: 22471c75-aa87-4419-88d0-0954d1c249fa
+    memory: null
+    name: ''
+    parent_id: null
+    properties: {}
+    status: 3
+    type: 1
+    variables: null
+    width: 800
+    x: 343
+    y: 965
+  - auto_size: false
+    canvas_id: 391f3b3b-61d3-4c40-9ea4-a202b318b545
+    cpu: null
+    description: ''
+    height: 500
+    id: 602b230e-4211-468f-806e-f9310eeba7db
+    is_fargate: false
+    layer_id: 22471c75-aa87-4419-88d0-0954d1c249fa
+    memory: null
+    name: scatter_plot_config
+    parent_id: null
+    properties: {}
+    status: 3
+    type: 1
+    variables: null
+    width: 800
+    x: 1783
+    y: -168
+  - auto_size: false
+    canvas_id: 391f3b3b-61d3-4c40-9ea4-a202b318b545
+    cpu: null
+    description: ''
+    height: 500
+    id: d93e27ba-6bd1-4e4f-b428-96956795fef5
+    is_fargate: false
+    layer_id: 22471c75-aa87-4419-88d0-0954d1c249fa
+    memory: null
+    name: get_column_names
+    parent_id: null
+    properties: {}
+    status: 3
+    type: 1
+    variables: null
+    width: 800
+    x: 1783
+    y: -791
+  - auto_size: false
+    canvas_id: 391f3b3b-61d3-4c40-9ea4-a202b318b545
+    cpu: null
+    description: ''
+    height: 522
+    id: 8593ed8a-af56-4122-9c52-afc3a2472abb
+    is_fargate: false
+    layer_id: 22471c75-aa87-4419-88d0-0954d1c249fa
+    memory: null
+    name: ''
+    parent_id: null
+    properties: {}
+    status: 3
+    type: 1
+    variables: null
+    width: 893
+    x: 2740
+    y: 2311
+  - auto_size: false
+    canvas_id: 391f3b3b-61d3-4c40-9ea4-a202b318b545
+    cpu: null
+    description: ''
+    height: 500
+    id: 1724f04c-dd7e-41a6-bb4f-085f1d21ff7f
+    is_fargate: false
+    layer_id: 22471c75-aa87-4419-88d0-0954d1c249fa
+    memory: null
+    name: ''
+    parent_id: null
+    properties: {}
+    status: 3
+    type: 1
+    variables: null
+    width: 800
+    x: 411
+    y: 180
+  canvas_id: 391f3b3b-61d3-4c40-9ea4-a202b318b545
   edges:
-  - canvas_id: 898902ef-909e-4aa9-b3cb-e0663cc5321e
-    id: 129bcea7-2c52-4dad-a36f-47115646ef6a
-    layer_id: c182921a-3366-426b-9f21-abac86cddd60
-    source: ffdc8c96-e127-457e-9a44-e46cfd2b3c8a
-    target: 1aa1b25d-a402-498e-b968-a140b040fa88
-  - canvas_id: 898902ef-909e-4aa9-b3cb-e0663cc5321e
-    id: 9a250dd1-c5ba-4721-ba9f-6fc6745d5252
-    layer_id: c182921a-3366-426b-9f21-abac86cddd60
-    source: ffdc8c96-e127-457e-9a44-e46cfd2b3c8a
-    target: c7780fa2-43ba-43cb-83db-0546c01a66a3
-  id: c182921a-3366-426b-9f21-abac86cddd60
+  - canvas_id: 391f3b3b-61d3-4c40-9ea4-a202b318b545
+    id: 4d655763-20a1-4be5-aaa8-fd7f64657d82
+    layer_id: 22471c75-aa87-4419-88d0-0954d1c249fa
+    source: 6ffef755-60c4-456e-9970-f627e80b2242
+    target: 7b8865a4-39b8-40b3-9b9e-55d60f0c706c
+  - canvas_id: 391f3b3b-61d3-4c40-9ea4-a202b318b545
+    id: 05fba9cb-7ca9-42a7-9ff5-e056a0d3bfdf
+    layer_id: 22471c75-aa87-4419-88d0-0954d1c249fa
+    source: 6ffef755-60c4-456e-9970-f627e80b2242
+    target: 1724f04c-dd7e-41a6-bb4f-085f1d21ff7f
+  - canvas_id: 391f3b3b-61d3-4c40-9ea4-a202b318b545
+    id: 5371b3ca-49a6-4d6d-b129-80416c50a104
+    layer_id: 22471c75-aa87-4419-88d0-0954d1c249fa
+    source: 6ffef755-60c4-456e-9970-f627e80b2242
+    target: 3a772162-7d3e-4983-913d-2aa75aa217c3
+  - canvas_id: 391f3b3b-61d3-4c40-9ea4-a202b318b545
+    id: b1a0d491-a462-46e1-9beb-138077822cbb
+    layer_id: 22471c75-aa87-4419-88d0-0954d1c249fa
+    source: 3a772162-7d3e-4983-913d-2aa75aa217c3
+    target: d93e27ba-6bd1-4e4f-b428-96956795fef5
+  - canvas_id: 391f3b3b-61d3-4c40-9ea4-a202b318b545
+    id: b441863c-7b17-4b79-addc-5feb82d6ab7d
+    layer_id: 22471c75-aa87-4419-88d0-0954d1c249fa
+    source: 3a772162-7d3e-4983-913d-2aa75aa217c3
+    target: 602b230e-4211-468f-806e-f9310eeba7db
+  - canvas_id: 391f3b3b-61d3-4c40-9ea4-a202b318b545
+    id: d4c6c049-3906-4869-a7fc-777cafe8aa28
+    layer_id: 22471c75-aa87-4419-88d0-0954d1c249fa
+    source: 3a772162-7d3e-4983-913d-2aa75aa217c3
+    target: 8cedc978-3c49-47c5-8f47-71c3d57e03ba
+  - canvas_id: 391f3b3b-61d3-4c40-9ea4-a202b318b545
+    id: 91f5f0b4-9e58-4024-bf08-0ea1c23e5069
+    layer_id: 22471c75-aa87-4419-88d0-0954d1c249fa
+    source: 3a772162-7d3e-4983-913d-2aa75aa217c3
+    target: 68626267-2766-46e6-aeac-af9c34684037
+  - canvas_id: 391f3b3b-61d3-4c40-9ea4-a202b318b545
+    id: 81a88c8d-75b6-4568-9764-26c16fb48f23
+    layer_id: 22471c75-aa87-4419-88d0-0954d1c249fa
+    source: 3a772162-7d3e-4983-913d-2aa75aa217c3
+    target: 2a1bbe45-472e-42cb-8be2-f3c40f346c4a
+  - canvas_id: 391f3b3b-61d3-4c40-9ea4-a202b318b545
+    id: 3595cd80-4f3f-4dd0-8bb8-a70373086a72
+    layer_id: 22471c75-aa87-4419-88d0-0954d1c249fa
+    source: 3a772162-7d3e-4983-913d-2aa75aa217c3
+    target: 3cb00a30-5b2a-4cb5-9263-e94e98e6e71f
+  - canvas_id: 391f3b3b-61d3-4c40-9ea4-a202b318b545
+    id: 93eb06a8-1782-4472-aba5-a43bdd2d643e
+    layer_id: 22471c75-aa87-4419-88d0-0954d1c249fa
+    source: 8cedc978-3c49-47c5-8f47-71c3d57e03ba
+    target: 154f66aa-4bfa-4169-9a50-ca85a4975d2f
+  - canvas_id: 391f3b3b-61d3-4c40-9ea4-a202b318b545
+    id: 6b3f53eb-98b8-4966-a4ab-ecfbe031acb2
+    layer_id: 22471c75-aa87-4419-88d0-0954d1c249fa
+    source: 68626267-2766-46e6-aeac-af9c34684037
+    target: 8593ed8a-af56-4122-9c52-afc3a2472abb
+  - canvas_id: 391f3b3b-61d3-4c40-9ea4-a202b318b545
+    id: 932cf107-95e5-4a77-96cd-cd7112f0d4c3
+    layer_id: 22471c75-aa87-4419-88d0-0954d1c249fa
+    source: 8593ed8a-af56-4122-9c52-afc3a2472abb
+    target: 69f7b56a-e624-4f3d-b490-154f52fe6f54
+  id: 22471c75-aa87-4419-88d0-0954d1c249fa
   name: Development
   type: 1
 - blocks:
   - auto_size: false
-    canvas_id: 898902ef-909e-4aa9-b3cb-e0663cc5321e
+    canvas_id: 391f3b3b-61d3-4c40-9ea4-a202b318b545
     cpu: null
     description: ''
     height: 500
-    id: acb0ae07-7058-4c26-9c60-da745591f375
+    id: 33b2f94f-c1ee-485d-80c2-b1e7848a33f4
     is_fargate: false
-    layer_id: 18a28b80-dc6e-4209-8d84-ba74b1f63f8f
+    layer_id: 087ef2e0-4f8b-4272-abaa-f2e68f2c7914
     memory: null
     name: ''
     parent_id: null
     properties:
-      api_key: zv-7f63c8af-fc1e-44ec-96cd-285755dcb7c6
+      api_key: zv-6a4d8b36-3b88-44fe-9dfc-fc6fdef44758
       dns_name: null
       file_names: []
     status: 1
     type: 7
     variables: null
     width: 800
-    x: -149
-    y: -21
+    x: 0
+    y: 0
   - auto_size: false
-    canvas_id: 898902ef-909e-4aa9-b3cb-e0663cc5321e
+    canvas_id: 391f3b3b-61d3-4c40-9ea4-a202b318b545
     cpu: null
     description: ''
     height: 500
-    id: 1d6a3eca-3de7-4ce1-b847-323f9d59604a
+    id: e4000453-0e03-4742-8835-ae9a7fa1a10e
     is_fargate: false
-    layer_id: 18a28b80-dc6e-4209-8d84-ba74b1f63f8f
+    layer_id: 087ef2e0-4f8b-4272-abaa-f2e68f2c7914
     memory: null
     name: ''
     parent_id: null
@@ -113,14 +380,10 @@ layers:
       method: get
       method_name: ''
       model:
-      - name: key1
-        optional: false
-        type: string
-        value: ''
-      - name: key2
-        optional: false
-        type: string
-        value: ''
+      - name: num
+        optional: true
+        type: number
+        value: -4
       response_model: []
       route_name: ''
       validation_enabled: true
@@ -128,16 +391,16 @@ layers:
     type: 8
     variables: null
     width: 800
-    x: 771
-    y: 607
+    x: 920
+    y: 0
   - auto_size: false
-    canvas_id: 898902ef-909e-4aa9-b3cb-e0663cc5321e
+    canvas_id: 391f3b3b-61d3-4c40-9ea4-a202b318b545
     cpu: null
     description: ''
     height: 500
-    id: b9bc6805-f536-47f2-a70a-ca7ed22a5e79
+    id: 0ef20886-7c37-41e0-97eb-b0c98c0b4d35
     is_fargate: false
-    layer_id: 18a28b80-dc6e-4209-8d84-ba74b1f63f8f
+    layer_id: 087ef2e0-4f8b-4272-abaa-f2e68f2c7914
     memory: null
     name: ''
     parent_id: null
@@ -146,15 +409,20 @@ layers:
     type: 4
     variables: null
     width: 800
-    x: 795
-    y: -13
-  canvas_id: 898902ef-909e-4aa9-b3cb-e0663cc5321e
+    x: 1840
+    y: -1
+  canvas_id: 391f3b3b-61d3-4c40-9ea4-a202b318b545
   edges:
-  - canvas_id: 898902ef-909e-4aa9-b3cb-e0663cc5321e
-    id: ace0f616-363a-40aa-8ad7-64ea1ec479e6
-    layer_id: 18a28b80-dc6e-4209-8d84-ba74b1f63f8f
-    source: acb0ae07-7058-4c26-9c60-da745591f375
-    target: 1d6a3eca-3de7-4ce1-b847-323f9d59604a
-  id: 18a28b80-dc6e-4209-8d84-ba74b1f63f8f
+  - canvas_id: 391f3b3b-61d3-4c40-9ea4-a202b318b545
+    id: 967c532f-1136-49a5-99a0-6a253eaadf14
+    layer_id: 087ef2e0-4f8b-4272-abaa-f2e68f2c7914
+    source: 33b2f94f-c1ee-485d-80c2-b1e7848a33f4
+    target: e4000453-0e03-4742-8835-ae9a7fa1a10e
+  - canvas_id: 391f3b3b-61d3-4c40-9ea4-a202b318b545
+    id: 5df07a8c-12fb-4166-a401-8cb14f25b6fc
+    layer_id: 087ef2e0-4f8b-4272-abaa-f2e68f2c7914
+    source: e4000453-0e03-4742-8835-ae9a7fa1a10e
+    target: 0ef20886-7c37-41e0-97eb-b0c98c0b4d35
+  id: 087ef2e0-4f8b-4272-abaa-f2e68f2c7914
   name: api_builder
   type: 2
