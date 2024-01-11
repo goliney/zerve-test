@@ -1,16 +1,16 @@
-id: 5eef1647-c75e-4c72-b147-73e3a1032ae2
+id: 679ef68d-a1e9-4cd3-bbc2-64307aa06e05
 name: Development
 type: 1
-canvas_id: da4f9b4a-6170-41c5-8cb5-8011adccde5a
+canvas_id: 800e2b83-9f05-4702-a338-1108242194cf
 blocks:
 - auto_size: false
-  canvas_id: da4f9b4a-6170-41c5-8cb5-8011adccde5a
+  canvas_id: 800e2b83-9f05-4702-a338-1108242194cf
   cpu: null
   description: ''
   height: 500
-  id: 9c096b8b-8c5c-489b-972d-8261080b5e82
+  id: 4ed1008d-6e65-4fbc-b768-1e8616319694
   is_fargate: false
-  layer_id: 5eef1647-c75e-4c72-b147-73e3a1032ae2
+  layer_id: 679ef68d-a1e9-4cd3-bbc2-64307aa06e05
   memory: null
   name: ''
   parent_id: null
@@ -19,6 +19,24 @@ blocks:
   type: 1
   variables: null
   width: 800
-  x: 85
-  y: 234
+  x: 1385
+  y: -128
+- auto_size: false
+  canvas_id: 800e2b83-9f05-4702-a338-1108242194cf
+  cpu: null
+  description: ''
+  height: 853
+  id: a5a247b2-f252-46a3-bc1c-93d802cee4f4
+  is_fargate: false
+  layer_id: 679ef68d-a1e9-4cd3-bbc2-64307aa06e05
+  memory: null
+  name: Quickstart Guide
+  parent_id: null
+  properties: {}
+  status: 1
+  type: 4
+  variables: null
+  width: 1412
+  x: -430
+  y: -289
 edges: []
