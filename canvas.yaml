@@ -1,19 +1,19 @@
-id: 800e2b83-9f05-4702-a338-1108242194cf
-name: fff
-project_id: e7f6f9d7-f526-4bb5-8e31-8122e7defd3f
+id: 3d1178ea-ae60-4693-8f49-bbcb1cc857fb
+name: "\u0444\u0456\u0432\u0430"
+project_id: 56ebe481-73a6-433a-873b-2b66274f08aa
 global_imports: []
 is_public: false
 workspace_id: null
 layers:
 - blocks:
   - auto_size: false
-    canvas_id: 800e2b83-9f05-4702-a338-1108242194cf
+    canvas_id: 3d1178ea-ae60-4693-8f49-bbcb1cc857fb
     cpu: null
     description: ''
     height: 500
-    id: 4ed1008d-6e65-4fbc-b768-1e8616319694
+    id: 9243c5e1-875c-4763-bf37-261b5ea853fd
     is_fargate: false
-    layer_id: 679ef68d-a1e9-4cd3-bbc2-64307aa06e05
+    layer_id: 29d638cc-a089-44a0-a864-d2265f82fd73
     memory: null
     name: ''
     parent_id: null
@@ -22,28 +22,10 @@ layers:
     type: 1
     variables: null
     width: 800
-    x: 1385
-    y: -128
-  - auto_size: false
-    canvas_id: 800e2b83-9f05-4702-a338-1108242194cf
-    cpu: null
-    description: ''
-    height: 853
-    id: a5a247b2-f252-46a3-bc1c-93d802cee4f4
-    is_fargate: false
-    layer_id: 679ef68d-a1e9-4cd3-bbc2-64307aa06e05
-    memory: null
-    name: Quickstart Guide
-    parent_id: null
-    properties: {}
-    status: 1
-    type: 4
-    variables: null
-    width: 1412
-    x: -430
-    y: -289
-  canvas_id: 800e2b83-9f05-4702-a338-1108242194cf
+    x: 1193
+    y: 316
+  canvas_id: 3d1178ea-ae60-4693-8f49-bbcb1cc857fb
   edges: []
-  id: 679ef68d-a1e9-4cd3-bbc2-64307aa06e05
+  id: 29d638cc-a089-44a0-a864-d2265f82fd73
   name: Development
   type: 1
