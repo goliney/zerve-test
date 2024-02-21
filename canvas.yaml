@@ -33,7 +33,7 @@ layers:
     is_fargate: false
     layer_id: 1e00574a-5e17-4e4e-ab64-89646fdd8f54
     memory: null
-    name: return_empty_string
+    name: Changed_name_of_a_block_with_a_long_long_long_name__and_again_an
     parent_id: null
     properties: {}
     status: 1
@@ -51,7 +51,7 @@ layers:
     is_fargate: false
     layer_id: 1e00574a-5e17-4e4e-ab64-89646fdd8f54
     memory: null
-    name: ''
+    name: pew pew pew
     parent_id: null
     properties: {}
     status: 1
