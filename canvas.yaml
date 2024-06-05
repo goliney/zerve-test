@@ -1,77 +1,31 @@
-id: 4974cdc3-f915-4d59-bdc1-671cd024764b
-name: dfdf
-project_id: 560ddcb7-e47e-4c71-a65c-fc604c0bdc75
+id: 553f45f0-7024-4e26-8476-842edb3ba283
+name: June 3
+project_id: afb79be5-9ef1-4af5-8e23-9616eef4bbba
 global_imports: []
 is_public: false
 workspace_id: null
 layers:
 - blocks:
   - auto_size: false
-    canvas_id: 4974cdc3-f915-4d59-bdc1-671cd024764b
-    cpu: null
-    description: ''
-    height: 638
-    id: 3d2e0606-984c-4370-86e6-b2c9d5cdf587
-    is_fargate: false
-    layer_id: 1e00574a-5e17-4e4e-ab64-89646fdd8f54
-    memory: null
-    name: ''
-    parent_id: null
-    properties: {}
-    status: 3
-    type: 1
-    variables: null
-    width: 1241
-    x: 3491
-    y: 113
-  - auto_size: false
-    canvas_id: 4974cdc3-f915-4d59-bdc1-671cd024764b
-    cpu: null
-    description: ''
-    height: 1118
-    id: 7f9bf7ec-7c10-48d3-885a-a3df533b9b1b
-    is_fargate: false
-    layer_id: 1e00574a-5e17-4e4e-ab64-89646fdd8f54
-    memory: null
-    name: Changed_name_of_a_block_with_a_long_long_long_name__and_again_an
-    parent_id: null
-    properties: {}
-    status: 1
-    type: 1
-    variables: null
-    width: 1666
-    x: 141
-    y: 83
-  - auto_size: false
-    canvas_id: 4974cdc3-f915-4d59-bdc1-671cd024764b
-    cpu: null
+    canvas_id: 553f45f0-7024-4e26-8476-842edb3ba283
+    compute_environment_type: 1
+    cpu: 2048
     description: ''
     height: 500
-    id: 6a87b16b-b1e2-4e5b-b782-ee8df0390768
-    is_fargate: false
-    layer_id: 1e00574a-5e17-4e4e-ab64-89646fdd8f54
-    memory: null
-    name: pew pew pew
+    id: 7b36eaba-8956-4486-bff4-5226eccf82aa
+    layer_id: 9737b44b-254e-4372-a228-5353eb67716d
+    memory: 16384
+    name: Block A
     parent_id: null
     properties: {}
     status: 1
     type: 1
     variables: null
     width: 800
-    x: 3234
-    y: 1345
-  canvas_id: 4974cdc3-f915-4d59-bdc1-671cd024764b
-  edges:
-  - canvas_id: 4974cdc3-f915-4d59-bdc1-671cd024764b
-    id: 6e4e85ab-8316-452e-9bd9-41c8af8be2c0
-    layer_id: 1e00574a-5e17-4e4e-ab64-89646fdd8f54
-    source: 7f9bf7ec-7c10-48d3-885a-a3df533b9b1b
-    target: 3d2e0606-984c-4370-86e6-b2c9d5cdf587
-  - canvas_id: 4974cdc3-f915-4d59-bdc1-671cd024764b
-    id: e4439639-f1c0-48ce-b364-4d0b736ec270
-    layer_id: 1e00574a-5e17-4e4e-ab64-89646fdd8f54
-    source: 7f9bf7ec-7c10-48d3-885a-a3df533b9b1b
-    target: 6a87b16b-b1e2-4e5b-b782-ee8df0390768
-  id: 1e00574a-5e17-4e4e-ab64-89646fdd8f54
+    x: 446
+    y: 468
+  canvas_id: 553f45f0-7024-4e26-8476-842edb3ba283
+  edges: []
+  id: 9737b44b-254e-4372-a228-5353eb67716d
   name: Development
   type: 1
